@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea/
+jmh-result.json
 
 ### Eclipse ###
 .apt_generated
